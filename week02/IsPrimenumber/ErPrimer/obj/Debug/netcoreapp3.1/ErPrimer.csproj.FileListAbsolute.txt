@@ -1,0 +1,13 @@
+D:\repo\week02\IsPrimenumber\ErPrimer\bin\Debug\netcoreapp3.1\ErPrimer.exe
+D:\repo\week02\IsPrimenumber\ErPrimer\bin\Debug\netcoreapp3.1\ErPrimer.deps.json
+D:\repo\week02\IsPrimenumber\ErPrimer\bin\Debug\netcoreapp3.1\ErPrimer.runtimeconfig.json
+D:\repo\week02\IsPrimenumber\ErPrimer\bin\Debug\netcoreapp3.1\ErPrimer.runtimeconfig.dev.json
+D:\repo\week02\IsPrimenumber\ErPrimer\bin\Debug\netcoreapp3.1\ErPrimer.dll
+D:\repo\week02\IsPrimenumber\ErPrimer\bin\Debug\netcoreapp3.1\ErPrimer.pdb
+D:\repo\week02\IsPrimenumber\ErPrimer\obj\Debug\netcoreapp3.1\ErPrimer.csprojAssemblyReference.cache
+D:\repo\week02\IsPrimenumber\ErPrimer\obj\Debug\netcoreapp3.1\ErPrimer.AssemblyInfoInputs.cache
+D:\repo\week02\IsPrimenumber\ErPrimer\obj\Debug\netcoreapp3.1\ErPrimer.AssemblyInfo.cs
+D:\repo\week02\IsPrimenumber\ErPrimer\obj\Debug\netcoreapp3.1\ErPrimer.csproj.CoreCompileInputs.cache
+D:\repo\week02\IsPrimenumber\ErPrimer\obj\Debug\netcoreapp3.1\ErPrimer.dll
+D:\repo\week02\IsPrimenumber\ErPrimer\obj\Debug\netcoreapp3.1\ErPrimer.pdb
+D:\repo\week02\IsPrimenumber\ErPrimer\obj\Debug\netcoreapp3.1\ErPrimer.genruntimeconfig.cache

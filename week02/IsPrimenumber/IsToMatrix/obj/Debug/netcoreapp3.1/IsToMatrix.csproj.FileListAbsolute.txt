@@ -1,0 +1,13 @@
+D:\repo\week02\IsPrimenumber\IsToMatrix\obj\Debug\netcoreapp3.1\IsToMatrix.csprojAssemblyReference.cache
+D:\repo\week02\IsPrimenumber\IsToMatrix\obj\Debug\netcoreapp3.1\IsToMatrix.AssemblyInfoInputs.cache
+D:\repo\week02\IsPrimenumber\IsToMatrix\obj\Debug\netcoreapp3.1\IsToMatrix.AssemblyInfo.cs
+D:\repo\week02\IsPrimenumber\IsToMatrix\obj\Debug\netcoreapp3.1\IsToMatrix.csproj.CoreCompileInputs.cache
+D:\repo\week02\IsPrimenumber\IsToMatrix\bin\Debug\netcoreapp3.1\IsToMatrix.exe
+D:\repo\week02\IsPrimenumber\IsToMatrix\bin\Debug\netcoreapp3.1\IsToMatrix.deps.json
+D:\repo\week02\IsPrimenumber\IsToMatrix\bin\Debug\netcoreapp3.1\IsToMatrix.runtimeconfig.json
+D:\repo\week02\IsPrimenumber\IsToMatrix\bin\Debug\netcoreapp3.1\IsToMatrix.runtimeconfig.dev.json
+D:\repo\week02\IsPrimenumber\IsToMatrix\bin\Debug\netcoreapp3.1\IsToMatrix.dll
+D:\repo\week02\IsPrimenumber\IsToMatrix\bin\Debug\netcoreapp3.1\IsToMatrix.pdb
+D:\repo\week02\IsPrimenumber\IsToMatrix\obj\Debug\netcoreapp3.1\IsToMatrix.dll
+D:\repo\week02\IsPrimenumber\IsToMatrix\obj\Debug\netcoreapp3.1\IsToMatrix.pdb
+D:\repo\week02\IsPrimenumber\IsToMatrix\obj\Debug\netcoreapp3.1\IsToMatrix.genruntimeconfig.cache

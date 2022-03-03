@@ -1,0 +1,13 @@
+D:\repo\week02\IsPrimenumber\IsPrimenumber\bin\Debug\netcoreapp3.1\IsPrimenumber.exe
+D:\repo\week02\IsPrimenumber\IsPrimenumber\bin\Debug\netcoreapp3.1\IsPrimenumber.deps.json
+D:\repo\week02\IsPrimenumber\IsPrimenumber\bin\Debug\netcoreapp3.1\IsPrimenumber.runtimeconfig.json
+D:\repo\week02\IsPrimenumber\IsPrimenumber\bin\Debug\netcoreapp3.1\IsPrimenumber.runtimeconfig.dev.json
+D:\repo\week02\IsPrimenumber\IsPrimenumber\bin\Debug\netcoreapp3.1\IsPrimenumber.dll
+D:\repo\week02\IsPrimenumber\IsPrimenumber\bin\Debug\netcoreapp3.1\IsPrimenumber.pdb
+D:\repo\week02\IsPrimenumber\IsPrimenumber\obj\Debug\netcoreapp3.1\IsPrimenumber.csprojAssemblyReference.cache
+D:\repo\week02\IsPrimenumber\IsPrimenumber\obj\Debug\netcoreapp3.1\IsPrimenumber.AssemblyInfoInputs.cache
+D:\repo\week02\IsPrimenumber\IsPrimenumber\obj\Debug\netcoreapp3.1\IsPrimenumber.AssemblyInfo.cs
+D:\repo\week02\IsPrimenumber\IsPrimenumber\obj\Debug\netcoreapp3.1\IsPrimenumber.csproj.CoreCompileInputs.cache
+D:\repo\week02\IsPrimenumber\IsPrimenumber\obj\Debug\netcoreapp3.1\IsPrimenumber.dll
+D:\repo\week02\IsPrimenumber\IsPrimenumber\obj\Debug\netcoreapp3.1\IsPrimenumber.pdb
+D:\repo\week02\IsPrimenumber\IsPrimenumber\obj\Debug\netcoreapp3.1\IsPrimenumber.genruntimeconfig.cache

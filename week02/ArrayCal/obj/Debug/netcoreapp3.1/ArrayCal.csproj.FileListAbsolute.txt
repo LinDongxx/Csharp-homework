@@ -1,0 +1,13 @@
+D:\repo\week02\ArrayCal\obj\Debug\netcoreapp3.1\ArrayCal.csprojAssemblyReference.cache
+D:\repo\week02\ArrayCal\obj\Debug\netcoreapp3.1\ArrayCal.AssemblyInfoInputs.cache
+D:\repo\week02\ArrayCal\obj\Debug\netcoreapp3.1\ArrayCal.AssemblyInfo.cs
+D:\repo\week02\ArrayCal\obj\Debug\netcoreapp3.1\ArrayCal.csproj.CoreCompileInputs.cache
+D:\repo\week02\ArrayCal\bin\Debug\netcoreapp3.1\ArrayCal.exe
+D:\repo\week02\ArrayCal\bin\Debug\netcoreapp3.1\ArrayCal.deps.json
+D:\repo\week02\ArrayCal\bin\Debug\netcoreapp3.1\ArrayCal.runtimeconfig.json
+D:\repo\week02\ArrayCal\bin\Debug\netcoreapp3.1\ArrayCal.runtimeconfig.dev.json
+D:\repo\week02\ArrayCal\bin\Debug\netcoreapp3.1\ArrayCal.dll
+D:\repo\week02\ArrayCal\bin\Debug\netcoreapp3.1\ArrayCal.pdb
+D:\repo\week02\ArrayCal\obj\Debug\netcoreapp3.1\ArrayCal.dll
+D:\repo\week02\ArrayCal\obj\Debug\netcoreapp3.1\ArrayCal.pdb
+D:\repo\week02\ArrayCal\obj\Debug\netcoreapp3.1\ArrayCal.genruntimeconfig.cache
