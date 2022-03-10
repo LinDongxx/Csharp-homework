@@ -1,0 +1,12 @@
+D:\repo\csharp-homework\week03\shape\bin\Debug\netcoreapp3.1\shape.exe
+D:\repo\csharp-homework\week03\shape\bin\Debug\netcoreapp3.1\shape.deps.json
+D:\repo\csharp-homework\week03\shape\bin\Debug\netcoreapp3.1\shape.runtimeconfig.json
+D:\repo\csharp-homework\week03\shape\bin\Debug\netcoreapp3.1\shape.runtimeconfig.dev.json
+D:\repo\csharp-homework\week03\shape\bin\Debug\netcoreapp3.1\shape.dll
+D:\repo\csharp-homework\week03\shape\bin\Debug\netcoreapp3.1\shape.pdb
+D:\repo\csharp-homework\week03\shape\obj\Debug\netcoreapp3.1\shape.AssemblyInfoInputs.cache
+D:\repo\csharp-homework\week03\shape\obj\Debug\netcoreapp3.1\shape.AssemblyInfo.cs
+D:\repo\csharp-homework\week03\shape\obj\Debug\netcoreapp3.1\shape.csproj.CoreCompileInputs.cache
+D:\repo\csharp-homework\week03\shape\obj\Debug\netcoreapp3.1\shape.dll
+D:\repo\csharp-homework\week03\shape\obj\Debug\netcoreapp3.1\shape.pdb
+D:\repo\csharp-homework\week03\shape\obj\Debug\netcoreapp3.1\shape.genruntimeconfig.cache
