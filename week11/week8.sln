@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderManagementWinForms", "OrderManagementWinForms\OrderManagementWinForms.csproj", "{6C908330-203A-4B29-92E0-2A81346556F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderManagement", "OrderManagement\OrderManagement.csproj", "{2F5AD7BE-9E14-4385-99EF-CB3258921A26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C908330-203A-4B29-92E0-2A81346556F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C908330-203A-4B29-92E0-2A81346556F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C908330-203A-4B29-92E0-2A81346556F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C908330-203A-4B29-92E0-2A81346556F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F5AD7BE-9E14-4385-99EF-CB3258921A26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F5AD7BE-9E14-4385-99EF-CB3258921A26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F5AD7BE-9E14-4385-99EF-CB3258921A26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F5AD7BE-9E14-4385-99EF-CB3258921A26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F589EB65-8D01-4DD4-819D-F48AC405CF62}
+	EndGlobalSection
+EndGlobal
